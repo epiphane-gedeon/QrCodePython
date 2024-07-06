@@ -21,14 +21,14 @@ This project is a simple Python application that generates QR codes. You can use
    git clone https://github.com/epiphane-gedeon/QrCodePython.git
    cd QrCodePython
 2. Create a virtual environment (optional but recommended):
-   On Windows
-   ```bash
-   py -3 -m venv .venv
-   .venv\Scripts\activate
-   pip install -r requirements.txt
+   - On Windows
+      ```bash
+      py -3 -m venv .venv
+      .venv\Scripts\activate
+      pip install -r requirements.txt
 
-   On Mac or Linux
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   pip install -r requirements.txt
+   - On Mac or Linux
+      ```bash
+      python3 -m venv venv
+      source venv/bin/activate
+      pip install -r requirements.txt
