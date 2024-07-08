@@ -1,4 +1,4 @@
-# QR Code Generator
+# QrCodePython
 
 This project is a simple Python application that generates QR codes. You can use it to create QR codes for URLs, text.
 
