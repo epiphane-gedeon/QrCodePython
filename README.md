@@ -29,6 +29,6 @@ This project is a simple Python application that generates QR codes. You can use
 
    - On Mac or Linux
       ```bash
-      python3 -m venv venv
-      source venv/bin/activate
+      python3 -m venv .venv
+      . .venv/bin/activate
       pip install -r requirements.txt
